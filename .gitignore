@@ -4,3 +4,4 @@
 reports
 terraform.tfstate.d
 Gemfile.lock
+.DS_Store
