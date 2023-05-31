@@ -1,0 +1,6 @@
+.terraform.lock.hcl
+.kitchen
+.terraform
+reports
+terraform.tfstate.d
+Gemfile.lock
